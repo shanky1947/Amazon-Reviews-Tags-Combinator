@@ -8,16 +8,16 @@ Output in colab notebook(Required Tags)-
 
 
 Website-
-![alt text](https://github.com/shanky1947/screenshots/HackOff-Seiemens-Healthcare/blob/master/SS1.jpeg)
+![alt text](https://github.com/shanky1947/HackOff-Seiemens-Healthcare/blob/master/screenshots/SS1.jpeg)
 
-![alt text](https://github.com/shanky1947/screenshots/HackOff-Seiemens-Healthcare/blob/master/SS2.jpeg)
+![alt text](https://github.com/shanky1947/HackOff-Seiemens-Healthcare/blob/master/screenshots/SS2.jpeg)
 
-![alt text](https://github.com/shanky1947/screenshots/HackOff-Seiemens-Healthcare/blob/master/SS3.jpeg)
+![alt text](https://github.com/shanky1947/HackOff-Seiemens-Healthcare/blob/master/screenshots/SS3.jpeg)
 
-![alt text](https://github.com/shanky1947/screenshots/HackOff-Seiemens-Healthcare/blob/master/SS4.jpeg)
+![alt text](https://github.com/shanky1947/HackOff-Seiemens-Healthcare/blob/master/screenshots/SS4.jpeg)
 
-![alt text](https://github.com/shanky1947/screenshots/HackOff-Seiemens-Healthcare/blob/master/SS5.jpeg)
+![alt text](https://github.com/shanky1947/HackOff-Seiemens-Healthcare/blob/master/screenshots/SS5.jpeg)
 
-![alt text](https://github.com/shanky1947/screenshots/HackOff-Seiemens-Healthcare/blob/master/SS6.jpeg)
+![alt text](https://github.com/shanky1947/HackOff-Seiemens-Healthcare/blob/master/screenshots/SS6.jpeg)
 
-![alt text](https://github.com/shanky1947/screenshots/HackOff-Seiemens-Healthcare/blob/master/SS7.jpeg)
+![alt text](https://github.com/shanky1947/HackOff-Seiemens-Healthcare/blob/master/screenshots/SS7.jpeg)
